@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: White;
+  background-color: Black;
+  padding: 6px 12px;
+  font-size: 200%;
+}
+
+p {
+  font-size: 150%;
+  margin-left 1%;
+  margin-right 1%;
+  padding: 6px 12px;
+  
+  background-color: Pink;
+}
+
+div#main {
+  width: 90%;
+  margin-left: 5%;
+  maright-right: 5%;
+
+}
+
+div.text {
+  background-color: LightGray;
+}
