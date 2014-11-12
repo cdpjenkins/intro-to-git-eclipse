@@ -11,7 +11,7 @@
 
 <H1>Hello World!</H1>
 
-<h2>TODOs:</h2>
+<h2 class="garish">TODOs:</h2>
 <ul>
 	<li>Some funky colours
 	<li>CSS that we can play around with

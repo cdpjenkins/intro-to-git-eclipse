@@ -11,6 +11,13 @@ h1 {
   font-size: 200%;
 }
 
+h2.garish {
+  color: Pink;
+  background-color: Green;
+  padding: 6px 12px;
+  font-size: 200%;
+}
+
 p {
   font-size: 150%;
   margin-left 1%;
