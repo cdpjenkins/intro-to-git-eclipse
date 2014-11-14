@@ -38,6 +38,7 @@
 	<li>CSS that we can play around with
 	<li>Other stuff
 	<li>...and things.
+	<li>This list now has 5 items in it. 5 is a good number.
 </ul>
 
 </body>
